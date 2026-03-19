@@ -8,6 +8,9 @@ To develop an image classification model using transfer learning with VGG19 arch
 The problem statement for this experiment is to develop an image classification model that can accurately distinguish between 'defect' and 'notdefect' semiconductor chip images. This is a binary classification task, where the goal is to leverage transfer learning using a pre-trained VGG19 model to effectively classify new, unseen chip images.
 
 
+## Neural Network Model
+<img width="969" height="870" alt="image" src="https://github.com/user-attachments/assets/1f56c3c7-00f7-44ee-88d2-88b28fe430b6" />
+
 
 
 ## DESIGN STEPS
